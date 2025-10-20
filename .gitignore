@@ -38,6 +38,8 @@ Thumbs.db
 
 # Ignore all generated PDF checkerboards
 *.pdf
+*.jpg
+*.JPG
 
 # Ignore log files
 *.log

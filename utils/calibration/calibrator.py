@@ -13,7 +13,7 @@ CHESSBOARD_SIZE = (GRID_WIDTH, GRID_HEIGHT)
 # 2. CRITICAL: Set the physical size of one square.
 #    Measure one square on your printed checkerboard.
 #    This is the *most important* value for getting a real-world scale.
-SQUARE_SIZE_CM = 1.75  # <--- !!! UPDATE THIS VALUE !!!
+SQUARE_SIZE_CM = 1.8  # <--- !!! UPDATE THIS VALUE !!!
 
 IMAGE_DIR = 'data/calibration/original'
 OUTPUT_FILE = 'data/calibration/calibration_data.npz'
