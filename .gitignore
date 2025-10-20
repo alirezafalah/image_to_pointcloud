@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class$
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+*.egg
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific cache files
+.DS_Store
+Thumbs.db
+
+# -------------------------------------------------------------------
+# --- Project-Specific ---
+# -------------------------------------------------------------------
+
+# Ignore all generated PDF checkerboards
+*.pdf
+
+# Ignore log files
+*.log
+
+# Ignore all generated output images.
+# This is the most important rule for your project.
+# It ensures your repo isn't bloated with test/debug outputs.
+data/calibration/verification_images/
