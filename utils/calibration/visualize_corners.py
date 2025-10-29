@@ -13,8 +13,8 @@ GRID_HEIGHT = 13 # (squares - 1)
 CHESSBOARD_SIZE = (GRID_WIDTH, GRID_HEIGHT)
 
 # --- File Paths ---
-IMAGE_DIR = 'data/calibration/original'  # Directory containing calibration images
-OUTPUT_DIR = 'data/calibration/verification_images'
+IMAGE_DIR = 'data/image_calibration'  # Directory containing calibration images
+OUTPUT_DIR = 'data/verification_images/image_method_verification'
 
 
 
