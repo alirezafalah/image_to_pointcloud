@@ -48,3 +48,8 @@ Thumbs.db
 # This is the most important rule for your project.
 # It ensures your repo isn't bloated with test/debug outputs.
 data/calibration/verification_images/
+
+*.mov
+*.MOV
+*.mp4
+*.MP4
