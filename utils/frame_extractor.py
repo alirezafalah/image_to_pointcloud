@@ -16,10 +16,10 @@ VIDEO_SOURCE_DIR = '.'
 
 # 2. Directory to save the extracted frames
 #    (Matching the calibrator.py input)
-OUTPUT_DIR = '../data/video_calibration'
+OUTPUT_DIR = 'frames'
 
 # 3. Number of frames to extract from each video
-FRAMES_TO_EXTRACT = 70
+FRAMES_TO_EXTRACT = 200
 
 # --- End Configuration ---
 
