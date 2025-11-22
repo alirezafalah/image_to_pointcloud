@@ -12,11 +12,11 @@ import math
 
 # 1. Directory to search for videos
 #    (Using '.' for the current directory, as in your Colab example)
-VIDEO_SOURCE_DIR = '.'
+VIDEO_SOURCE_DIR = 'data/high_contrast_checkerboard_with_colored_corners'
 
 # 2. Directory to save the extracted frames
 #    (Matching the calibrator.py input)
-OUTPUT_DIR = 'frames'
+OUTPUT_DIR = 'data/high_contrast_checkerboard_with_colored_corners'
 
 # 3. Number of frames to extract from each video
 FRAMES_TO_EXTRACT = 200
